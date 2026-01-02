@@ -1,60 +1,52 @@
-# 💜 Hi, I'm Rituparna Ray  
+# Rituparna Ray  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=B57EDC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Clean+UI+%26+Strong+Logic;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=9D4EDD&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;MERN+Stack;Clean+UI+%7C+Scalable+Logic;Learning+Every+Day" />
 </p>
 
 <p align="center">
-  🌸 Turning ideas into elegant web experiences  
-</p>
-
----
-
-## ✨ About Me  
-
-- 💻 Full-Stack Developer focused on **MERN**
-- 🔭 Currently working on **internship projects**
-- 🌱 Learning by **building real applications**
-- 🎨 Love **clean UI + smooth user experience**
-- 🧠 Curious about how things work **behind the scenes**
-- 📫 **rayrituparna78@gmail.com**
-
----
-
-## 🛠 Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-7B2CBF?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-9D4EDD?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-C77DFF?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-5A189A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-7B2CBF?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-240046?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-3C096C?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <sub style="color:#CDB4DB;">Building calm, clean, and reliable web experiences.</sub>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## About  
+
+- Full-Stack Developer (MERN)
+- Working on real-world internship projects  
+- Focused on **clarity, performance, and maintainability**
+- Enjoys clean UI and understanding system flow  
+
+📫 **rayrituparna78@gmail.com**
+
+---
+
+## Stack  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rituparna3-bit&show_icons=true&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rituparna3-bit&layout=compact&theme=midnight-purple&hide_border=true"/>
+  <img src="https://img.shields.io/badge/HTML5-240046?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-3C096C?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-5A189A?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/React-7B2CBF?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-9D4EDD?style=flat-square&logo=node-dot-js"/>
+  <img src="https://img.shields.io/badge/Express.js-C77DFF?style=flat-square&logo=express"/>
+  <img src="https://img.shields.io/badge/MongoDB-E0AAFF?style=flat-square&logo=mongodb"/>
 </p>
 
 ---
 
-## 🌸 Fun Fact  
+## Stats  
 
-💜 I love building beautiful interfaces  
-⚙️ I enjoy understanding the logic behind every feature  
-🎧 Music + code = my comfort zone  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rituparna3-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rituparna3-bit&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 <p align="center">
-  ✨ <i>Minimal. Curious. Consistent.</i> ✨  
+  <sub>Minimal. Dark. Intentional.</sub>
 </p>
