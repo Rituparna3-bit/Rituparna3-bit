@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=8A2BE2&background=FFFFFF00&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!+👋;Full+Stack+MERN+Developer+🚀;JavaScript+%7C+React+%7C+Node.js;Always+Learning+%26+Building+💻" alt="Typing SVG" />
 </p>
-
----
-
-
-
 ---
 
 ###  About Me  
@@ -59,8 +54,6 @@
 - 🧩 Data visualizations that tell a story  
 - 💬 Open-source collaborations (like this one!)  
 - 🎨 Interfaces that feel warm, simple, and human  
-
----
 
 ---
 
