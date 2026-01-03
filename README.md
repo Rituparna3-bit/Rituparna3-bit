@@ -34,7 +34,7 @@
 ## 🌐 Socials  
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/rituparna-ray/">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rayrituparna78@gmail.com">
