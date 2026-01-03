@@ -12,14 +12,14 @@
 
 ---
 
-### 🖤 About Me  
+###  About Me  
 
-- 🎓 **MCA** Student  
-- 💻 **Aspiring Full Stack Developer (MERN)**  
-- 🧠 Strong in **JavaScript, HTML, CSS**  
-- 🔧 Built projects like **Samsung Website Clone**, **Personal Portfolio**  
-- 🌱 Currently improving **React, Backend**  
-- 🎯 Career Goal → **Professional Full Stack Developer**  
+-  **MCA** Student  
+-  **Aspiring Full Stack Developer (MERN)**  
+-  Strong in **JavaScript, HTML, CSS**  
+-  Built projects like **Samsung Website Clone**, **Personal Portfolio**  
+-  Currently improving **React, Backend**  
+-  Career Goal → **Professional Full Stack Developer**  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="480">
 
@@ -66,7 +66,7 @@
 
 ### 🕶️ Fun Fact  
 
-> _“I build interfaces by day and logic by night.”_ 💜  
+> _“I build interfaces by day and logic by night.”_   
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="480">
 
