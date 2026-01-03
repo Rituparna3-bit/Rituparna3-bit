@@ -53,12 +53,23 @@
 
 <br><br>
 
-### 💻 Projects I Enjoy  
+### 🚀 Projects I’ve Worked On  
 
-- 🌼 Frontend experiments with playful design  
-- 🧩 Data visualizations that tell a story  
-- 💬 Open-source collaborations  
-- 🎨 Interfaces that feel warm, simple, and human  
+#### 🖥️ Samsung Website Clone  
+- Developed a **responsive frontend clone** of the Samsung official website  
+- Focused on **layout accuracy, UI consistency, and responsiveness**  
+- Technologies: **HTML, CSS, JavaScript**
+
+#### 🏠 Smart PG Management System  
+- Built a system to manage **PG rooms, tenants, and payments**  
+- Implemented **frontend–backend interaction** for real-world use cases  
+- Technologies: **React, Node.js, Express, MongoDB**
+
+#### 🌐 Personal Portfolio Website  
+- Designed and developed a **personal portfolio** to showcase skills and projects  
+- Included **projects, skills, contact section, and responsive design**  
+- Technologies: **HTML, CSS, JavaScript, React**
+
 
 <br><br>
 
