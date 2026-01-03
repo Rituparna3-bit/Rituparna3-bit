@@ -52,7 +52,7 @@
 ### 💻 Projects I Enjoy
 - 🌼 Frontend experiments with playful design  
 - 🧩 Data visualizations that tell a story  
-- 💬 Open-source collaborations (like this one!)  
+- 💬 Open-source collaborations   
 - 🎨 Interfaces that feel warm, simple, and human  
 
 ---
