@@ -14,11 +14,11 @@
 
 ### 🖤 About Me  
 
-- 🎓 **MCA (2nd Semester)** Student  
+- 🎓 **MCA** Student  
 - 💻 **Full Stack Developer (MERN)**  
 - 🧠 Strong in **JavaScript, HTML, CSS**  
-- 🔧 Built projects like **Student Attendance System**, **Smart Parking System**  
-- 🌱 Currently improving **React, Backend & DSA concepts**  
+- 🔧 Built projects like **Samsung Website Clone**, **Personal Portfolio**  
+- 🌱 Currently improving **React, Backend**  
 - 🎯 Career Goal → **Professional Full Stack Developer**  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="480">
