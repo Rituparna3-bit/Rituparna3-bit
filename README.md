@@ -55,7 +55,16 @@
 
 </p>
 
+### 💻 Projects I Enjoy
+- 🌼 Frontend experiments with playful design  
+- 🧩 Data visualizations that tell a story  
+- 💬 Open-source collaborations (like this one!)  
+- 🎨 Interfaces that feel warm, simple, and human  
+
 ---
+
+---
+
 
 <!-- Snake Game Repo View -->
 <div align="center">
