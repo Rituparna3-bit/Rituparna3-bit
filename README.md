@@ -1,24 +1,26 @@
 <!-- Header -->
-<h1 align="center">Hii,I'm Rituparna Ray </h1>
+<h1 align="center">Hii, I'm Rituparna Ray</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=8A2BE2&background=FFFFFF00&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!+👋;Full+Stack+MERN+Developer+🚀;JavaScript+%7C+React+%7C+Node.js;Always+Learning+%26+Building+💻" alt="Typing SVG" />
 </p>
 
----
-###  About Me  
+<br><br>
 
--  **MCA** Student  
--  **Aspiring Full Stack Developer (MERN)**  
--  Strong in **JavaScript, HTML, CSS**  
--  Built projects like **Samsung Website Clone**, **Personal Portfolio**  
--  Currently improving **React, Backend**  
--  Career Goal → **Professional Full Stack Developer**  
+### 🌸 About Me  
+
+- **MCA Student**  
+- **Aspiring Full Stack Developer (MERN)**  
+- Strong in **JavaScript, HTML, CSS**  
+- Built projects like **Samsung Website Clone**, **Personal Portfolio**  
+- Currently improving **React & Backend**  
+- Career Goal → **Professional Full Stack Developer**  
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="480">
 
----
-
-
+<br><br>
 
 ## 🌐 Socials  
 
@@ -31,7 +33,7 @@
   </a>
 </p>
 
----
+<br><br>
 
 ## 💻 Tech Stack  
 
@@ -49,31 +51,28 @@
 
 </p>
 
-### 💻 Projects I Enjoy
+<br><br>
+
+### 💻 Projects I Enjoy  
+
 - 🌼 Frontend experiments with playful design  
 - 🧩 Data visualizations that tell a story  
-- 💬 Open-source collaborations   
+- 💬 Open-source collaborations  
 - 🎨 Interfaces that feel warm, simple, and human  
 
----
-
+<br><br>
 
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<br><br>
 
 ### 🕶️ Fun Fact  
 
-> _“I build interfaces by day and logic by night.”_   
+> _“I build interfaces by day and logic by night.”_  
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="480">
-
----
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=110&section=footer"/>
-</div>
