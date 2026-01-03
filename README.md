@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">💜 Rituparna Ray 💜</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=8A2BE2&background=FFFFFF00&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!+👋;Full+Stack+MERN+Developer+🚀;MCA+Student+🎓;JavaScript+%7C+React+%7C+Node.js;Always+Learning+%26+Building+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=8A2BE2&background=FFFFFF00&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!+👋;Full+Stack+MERN+Developer+🚀;JavaScript+%7C+React+%7C+Node.js;Always+Learning+%26+Building+💻" alt="Typing SVG" />
 </p>
 
 ---
@@ -79,18 +79,7 @@
 
 ---
 
-### ⚡ Let’s Connect  
 
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rayrituparna78@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=110&section=footer"/>
