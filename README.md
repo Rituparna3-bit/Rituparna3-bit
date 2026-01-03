@@ -15,7 +15,7 @@
 ### 🖤 About Me  
 
 - 🎓 **MCA** Student  
-- 💻 **Full Stack Developer (MERN)**  
+- 💻 **Aspiring Full Stack Developer (MERN)**  
 - 🧠 Strong in **JavaScript, HTML, CSS**  
 - 🔧 Built projects like **Samsung Website Clone**, **Personal Portfolio**  
 - 🌱 Currently improving **React, Backend**  
