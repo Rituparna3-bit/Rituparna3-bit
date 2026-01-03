@@ -31,46 +31,45 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github&perline=6" />
 </p>
 
-#### 🖥️ Frontend
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/>
-</div>
-
-#### ⚙️ Backend
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/>
-</div>
-
-#### 🗄️ Database
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60"/>
-</div>
-
-#### 🧠 Languages
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="480">
-
----
-
-### 📊 GitHub Analytics  
+## 🌐 Socials  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rituray78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2" height="160"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rituray78&theme=tokyonight&hide_border=true&background=000000&ring=8A2BE2&currStreakLabel=8A2BE2" height="160"/>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rayrituparna78@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
+
+## 💻 Tech Stack  
+
+<p align="center">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
+
+---
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ### 🕶️ Fun Fact  
 
