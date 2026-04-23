@@ -115,12 +115,12 @@ goal: Professional Full Stack Developer 🎯
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rituparna-ray&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=7c3aed&icon_color=a855f7&text_color=555555&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rituparna3-bit&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=7c3aed&icon_color=a855f7&text_color=555555&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rituparna-ray&hide_border=true&background=ffffff00&ring=a855f7&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=a855f7&dates=aaaaaa&stroke=e9d5ff" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituparna-ray&layout=compact&hide_border=true&bg_color=ffffff00&title_color=7c3aed&text_color=a855f7&langs_count=6" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituparna3-bit&layout=compact&hide_border=true&bg_color=ffffff00&title_color=7c3aed&text_color=a855f7&langs_count=6" />
 
 </div>
 
@@ -132,7 +132,7 @@ goal: Professional Full Stack Developer 🎯
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rituparna-ray&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=rituparna3-bit&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6" />
 
 </div>
 
