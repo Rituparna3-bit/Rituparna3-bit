@@ -1,24 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,30:764ba2,60:f093fb,100:c471ed&height=260&section=header&text=Your%20Name&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20with%20purpose%20%E2%80%A2%20Crafting%20digital%20experiences&descAlignY=62&descSize=15&animation=fadeIn&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,40:a855f7,70:7c3aed,100:4f46e5&height=240&section=header&text=Rituparna%20Ray&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20MERN%20Developer%20✦%20MCA%20Student%20✦%20Building%20for%20the%20Web&descAlignY=62&descSize=15&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=20&pause=1200&color=c471ed&center=true&vCenter=true&width=600&lines=Designing+systems+that+scale+✦;Writing+code+that+lasts+✦;Obsessed+with+beautiful+UX+%26+clean+architecture;Open+to+collaboration+%26+new+ideas+✦" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Always+Learning+%26+Always+Building+%F0%9F%92%BB;%22I+build+interfaces+by+day+and+logic+by+night.%22" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=c471ed&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=rituparna-ray&style=flat-square&color=a855f7&label=profile+views" />
 &nbsp;&nbsp;
-<a href="https://github.com/yourusername?tab=followers">
-  <img src="https://img.shields.io/github/followers/yourusername?style=flat-square&color=764ba2&label=followers" />
-</a>
+<img src="https://img.shields.io/badge/focus-MERN%20Stack-7c3aed?style=flat-square" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/status-open%20to%20work-667eea?style=flat-square" />
+<img src="https://img.shields.io/badge/status-open%20to%20opportunities-c084fc?style=flat-square" />
 
 </div>
 
@@ -26,36 +24,39 @@
 
 ---
 
-<br/>
-
-## 〇 &nbsp; About
+## 🌸 &nbsp; About Me
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%" valign="top">
 
 ```yaml
-# whoami
+name:       Rituparna Ray
+degree:     MCA (Master of Computer Applications)
+role:       Aspiring Full Stack Developer (MERN)
 
-name:       Your Name
-location:   Mumbai, India
-role:       Full-Stack Developer
+strengths:
+  - JavaScript · HTML · CSS
+  - React (currently leveling up ⬆️)
+  - Node.js · Express · MongoDB
 
-focus:
-  - Building end-to-end web products
-  - Clean architecture & system design
-  - Developer experience & tooling
-  - Open source contribution
+projects_built:
+  - Samsung Website Clone
+  - Smart PG Management System
+  - Personal Portfolio Website
 
-currently:  Shipping something new  🚀
-learning:   [ Rust, WebAssembly, k8s ]
-available:  true
+currently_improving:
+  - React advanced patterns
+  - Backend architecture
+  - REST API design
+
+goal: Professional Full Stack Developer 🎯
 ```
 
 </td>
-<td width="45%" align="center">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=ffffff00&title_color=764ba2&text_color=667eea&langs_count=6" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif" style="border-radius: 12px;" />
 
 </td>
 </tr>
@@ -65,42 +66,28 @@ available:  true
 
 ---
 
-<br/>
-
-## 〇 &nbsp; Technology
+## 💻 &nbsp; Tech Stack
 
 <div align="center">
 
-**Interface**
+**Frontend**
 
-![React](https://img.shields.io/badge/React-e0d7ff?style=flat-square&logo=react&logoColor=764ba2)
-![Next.js](https://img.shields.io/badge/Next.js-ede9fe?style=flat-square&logo=nextdotjs&logoColor=4c1d95)
-![TypeScript](https://img.shields.io/badge/TypeScript-ddd6fe?style=flat-square&logo=typescript&logoColor=5b21b6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-e0f2fe?style=flat-square&logo=tailwind-css&logoColor=0369a1)
-![Framer Motion](https://img.shields.io/badge/Framer-ede9fe?style=flat-square&logo=framer&logoColor=7c3aed)
+![HTML5](https://img.shields.io/badge/HTML5-fde8d8?style=for-the-badge&logo=html5&logoColor=c2410c)
+![CSS3](https://img.shields.io/badge/CSS3-dbeafe?style=for-the-badge&logo=css3&logoColor=1d4ed8)
+![JavaScript](https://img.shields.io/badge/JavaScript-fef9c3?style=for-the-badge&logo=javascript&logoColor=854d0e)
+![React](https://img.shields.io/badge/React-e0f2fe?style=for-the-badge&logo=react&logoColor=0369a1)
 
-**Services**
+**Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-dcfce7?style=flat-square&logo=nodedotjs&logoColor=166534)
-![Express](https://img.shields.io/badge/Express-f3f4f6?style=flat-square&logo=express&logoColor=111827)
-![GraphQL](https://img.shields.io/badge/GraphQL-fce7f3?style=flat-square&logo=graphql&logoColor=be185d)
-![tRPC](https://img.shields.io/badge/tRPC-ede9fe?style=flat-square&logo=trpc&logoColor=5b21b6)
-![Python](https://img.shields.io/badge/Python-fef9c3?style=flat-square&logo=python&logoColor=854d0e)
+![Node.js](https://img.shields.io/badge/Node.js-dcfce7?style=for-the-badge&logo=nodedotjs&logoColor=166534)
+![Express.js](https://img.shields.io/badge/Express.js-f3f4f6?style=for-the-badge&logo=express&logoColor=111827)
+![MongoDB](https://img.shields.io/badge/MongoDB-dcfce7?style=for-the-badge&logo=mongodb&logoColor=166534)
 
-**Data**
+**Tools & Platforms**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-dbeafe?style=flat-square&logo=postgresql&logoColor=1e40af)
-![MongoDB](https://img.shields.io/badge/MongoDB-dcfce7?style=flat-square&logo=mongodb&logoColor=166534)
-![Redis](https://img.shields.io/badge/Redis-fee2e2?style=flat-square&logo=redis&logoColor=991b1b)
-![Prisma](https://img.shields.io/badge/Prisma-ede9fe?style=flat-square&logo=prisma&logoColor=4c1d95)
-![Supabase](https://img.shields.io/badge/Supabase-dcfce7?style=flat-square&logo=supabase&logoColor=166534)
-
-**Cloud & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-e0f2fe?style=flat-square&logo=docker&logoColor=075985)
-![AWS](https://img.shields.io/badge/AWS-fef3c7?style=flat-square&logo=amazonaws&logoColor=92400e)
-![Vercel](https://img.shields.io/badge/Vercel-f3f4f6?style=flat-square&logo=vercel&logoColor=111827)
-![GitHub Actions](https://img.shields.io/badge/GH_Actions-dbeafe?style=flat-square&logo=github-actions&logoColor=1e40af)
+![Git](https://img.shields.io/badge/Git-fce7f3?style=for-the-badge&logo=git&logoColor=9d174d)
+![GitHub](https://img.shields.io/badge/GitHub-ede9fe?style=for-the-badge&logo=github&logoColor=4c1d95)
+![VS Code](https://img.shields.io/badge/VS%20Code-dbeafe?style=for-the-badge&logo=visualstudiocode&logoColor=1d4ed8)
 
 </div>
 
@@ -108,14 +95,15 @@ available:  true
 
 ---
 
-<br/>
-
-## 〇 &nbsp; Stats
+## 🚀 &nbsp; Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=764ba2&icon_color=c471ed&text_color=555555&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&background=ffffff00&ring=c471ed&fire=764ba2&currStreakLabel=764ba2&sideLabels=c471ed&dates=aaaaaa&stroke=e9d5ff" />
+| 🗂️ Project | 💡 Description | 🛠️ Stack |
+|:---|:---|:---|
+| 🖥️ **Samsung Website Clone** | Responsive frontend clone with layout accuracy & UI consistency | `HTML` `CSS` `JavaScript` |
+| 🏠 **Smart PG Management System** | Full-stack system to manage rooms, tenants & payments | `React` `Node.js` `Express` `MongoDB` |
+| 🌐 **Personal Portfolio** | Showcase of skills, projects & contact — fully responsive | `HTML` `CSS` `JavaScript` `React` |
 
 </div>
 
@@ -123,18 +111,16 @@ available:  true
 
 ---
 
-<br/>
-
-## 〇 &nbsp; Highlights
+## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/yourusername/project-one">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&hide_border=true&bg_color=ffffff00&title_color=764ba2&icon_color=c471ed&text_color=555555" />
-</a>
-<a href="https://github.com/yourusername/project-two">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&hide_border=true&bg_color=ffffff00&title_color=764ba2&icon_color=c471ed&text_color=555555" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rituparna-ray&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=7c3aed&icon_color=a855f7&text_color=555555&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rituparna-ray&hide_border=true&background=ffffff00&ring=a855f7&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=a855f7&dates=aaaaaa&stroke=e9d5ff" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituparna-ray&layout=compact&hide_border=true&bg_color=ffffff00&title_color=7c3aed&text_color=a855f7&langs_count=6" />
 
 </div>
 
@@ -142,13 +128,11 @@ available:  true
 
 ---
 
-<br/>
-
-## 〇 &nbsp; Contribution
+## 🏆 &nbsp; GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=ffffff00&color=764ba2&line=c471ed&point=667eea&area=true&area_color=ede9fe&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=rituparna-ray&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6" />
 
 </div>
 
@@ -156,32 +140,44 @@ available:  true
 
 ---
 
-<br/>
-
-## 〇 &nbsp; Reach Out
+## 📈 &nbsp; Contribution Graph
 
 <div align="center">
 
-<a href="https://linkedin.com/in/yourusername">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rituparna-ray&bg_color=ffffff00&color=7c3aed&line=a855f7&point=4f46e5&area=true&area_color=ede9fe&hide_border=true" />
+
+</div>
+
+<br/>
+
+---
+
+## 🌐 &nbsp; Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rituparna-ray/">
   <img src="https://img.shields.io/badge/LinkedIn-ddd6fe?style=for-the-badge&logo=linkedin&logoColor=5b21b6" />
 </a>
 &nbsp;
-<a href="https://twitter.com/yourusername">
-  <img src="https://img.shields.io/badge/Twitter-e0f2fe?style=for-the-badge&logo=x&logoColor=0369a1" />
-</a>
-&nbsp;
-<a href="mailto:your@email.com">
+<a href="mailto:rayrituparna78@gmail.com">
   <img src="https://img.shields.io/badge/Email-fce7f3?style=for-the-badge&logo=gmail&logoColor=be185d" />
 </a>
-&nbsp;
-<a href="https://yourportfolio.dev">
-  <img src="https://img.shields.io/badge/Portfolio-ede9fe?style=for-the-badge&logo=firefox&logoColor=7c3aed" />
-</a>
 
-<br/><br/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:c471ed,50:764ba2,100:667eea&height=100&section=footer&text=thanks%20for%20visiting%20✦&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+<br/>
 
-<sub>If something here resonated, a ⭐ always means a lot.</sub>
+---
+
+<div align="center">
+
+> _✦ &nbsp; "I build interfaces by day and logic by night." &nbsp; ✦_
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,40:7c3aed,70:a855f7,100:c084fc&height=120&section=footer&text=Thanks%20for%20visiting%20%F0%9F%8C%B8&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+
+<sub>If you liked something here, a ⭐ would make my day 💜</sub>
 
 </div>
